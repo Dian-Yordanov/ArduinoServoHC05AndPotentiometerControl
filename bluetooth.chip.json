@@ -1,0 +1,20 @@
+{
+  "name": "hc-05",
+  "author": "",
+  "pins": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "State",
+    "RXD",
+    "TXD",
+    "GND",
+    "VCC",
+    "KEY"
+  ],
+  "controls": [
+  ]
+}
